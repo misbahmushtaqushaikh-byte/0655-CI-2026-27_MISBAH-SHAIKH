@@ -1,0 +1,31 @@
+order_id,city,food_category,item_name,price_inr,quantity,payment_method,order_status,customer_rating,order_date,Sales,Sales Date,Value,Product,Region,Sales_fillNA,Value_new
+1001,Mysuru,South Indian,Masala Dosa,120.0,1.0,UPI,Delivered,4.5,2026-10-01,120.0,2026-10-01,120.0,Masala Dosa,Mysuru,120.0,240.0
+1002,Bengaluru,Chinese,Veg Noodles,180.0,2.0,Card,Delivered,4.2,2026-10-01,360.0,2026-10-01,180.0,Veg Noodles,Bengaluru,360.0,360.0
+1003,Mangaluru,North Indian,Paneer Butter Masala,240.0,1.0,Cash,Cancelled,,2026-10-02,240.0,2026-10-02,240.0,Paneer Butter Masala,Mangaluru,240.0,480.0
+1004,Mysuru,Fast Food,Veg Burger,150.0,2.0,UPI,Delivered,4.0,2026-10-02,300.0,2026-10-02,150.0,Veg Burger,Mysuru,300.0,300.0
+1005,Hubballi,South Indian,Idli Vada,90.0,3.0,,Delivered,4.6,2026-10-03,270.0,2026-10-03,90.0,Idli Vada,Hubballi,270.0,180.0
+1006,Bengaluru,Desserts,Chocolate Brownie,130.0,1.0,Card,Delivered,,2026-10-03,130.0,2026-10-03,130.0,Chocolate Brownie,Bengaluru,130.0,260.0
+1007,Mangaluru,Chinese,Fried Rice,200.0,,UPI,Delivered,4.1,2026-10-04,,2026-10-04,200.0,Fried Rice,Mangaluru,243.2,400.0
+1008,Mysuru,,Veg Biryani,190.0,1.0,Cash,Delivered,4.3,2026-10-04,190.0,2026-10-04,190.0,Veg Biryani,Mysuru,190.0,380.0
+1009,Udupi,South Indian,Neer Dosa,,2.0,UPI,Delivered,4.7,2026-10-05,,2026-10-05,,Neer Dosa,Udupi,243.2,
+1010,Bengaluru,Fast Food,Pizza,320.0,1.0,Card,,4.4,2026-10-05,320.0,2026-10-05,320.0,Pizza,Bengaluru,320.0,640.0
+1011,Mysuru,Chinese,Manchurian,170.0,2.0,UPI,Delivered,3.9,2026-10-06,340.0,2026-10-06,170.0,Manchurian,Mysuru,340.0,340.0
+1012,,North Indian,Dal Tadka,160.0,1.0,Cash,Delivered,4.2,2026-10-06,160.0,2026-10-06,160.0,Dal Tadka,,160.0,320.0
+1013,Mangaluru,Seafood,Fish Meals,280.0,1.0,Card,Delivered,4.8,2026-10-07,280.0,2026-10-07,280.0,Fish Meals,Mangaluru,280.0,560.0
+1014,Hubballi,Fast Food,Sandwich,110.0,2.0,UPI,Cancelled,,2026-10-07,220.0,2026-10-07,110.0,Sandwich,Hubballi,220.0,220.0
+1015,Bengaluru,Desserts,Ice Cream,100.0,3.0,,Delivered,4.5,2026-10-08,300.0,2026-10-08,100.0,Ice Cream,Bengaluru,300.0,200.0
+1016,Mysuru,South Indian,Pongal,130.0,1.0,Cash,Delivered,4.1,2026-10-08,130.0,2026-10-08,130.0,Pongal,Mysuru,130.0,260.0
+1017,Udupi,North Indian,Chapati Curry,150.0,,UPI,Delivered,4.0,2026-10-09,,2026-10-09,150.0,Chapati Curry,Udupi,243.2,300.0
+1018,Mangaluru,Chinese,Schezwan Rice,210.0,1.0,Card,Delivered,,2026-10-09,210.0,2026-10-09,210.0,Schezwan Rice,Mangaluru,210.0,420.0
+1019,Bengaluru,Fast Food,French Fries,95.0,2.0,UPI,Delivered,3.8,2026-10-10,190.0,2026-10-10,95.0,French Fries,Bengaluru,190.0,190.0
+1020,Mysuru,Desserts,Gulab Jamun,,2.0,Cash,Delivered,4.6,2026-10-10,,2026-10-10,,Gulab Jamun,Mysuru,243.2,
+1021,Hubballi,South Indian,Poori,100.0,2.0,Card,Delivered,4.2,2026-10-11,200.0,2026-10-11,100.0,Poori,Hubballi,200.0,200.0
+1022,Mangaluru,,Chicken Biryani,260.0,1.0,UPI,Delivered,4.7,2026-10-11,260.0,2026-10-11,260.0,Chicken Biryani,Mangaluru,260.0,520.0
+1023,Bengaluru,Chinese,Hakka Noodles,190.0,2.0,Cash,Delivered,4.1,2026-10-12,380.0,2026-10-12,190.0,Hakka Noodles,Bengaluru,380.0,380.0
+1024,Mysuru,Fast Food,Veg Roll,140.0,1.0,,Delivered,3.9,2026-10-12,140.0,2026-10-12,140.0,Veg Roll,Mysuru,140.0,280.0
+1025,Udupi,South Indian,Meals,180.0,1.0,UPI,,4.5,2026-10-13,180.0,2026-10-13,180.0,Meals,Udupi,180.0,360.0
+1026,Bengaluru,North Indian,Kadai Paneer,230.0,2.0,Card,Delivered,4.3,2026-10-13,460.0,2026-10-13,230.0,Kadai Paneer,Bengaluru,460.0,460.0
+1027,Mangaluru,Seafood,Prawn Curry,350.0,1.0,Cash,Delivered,,2026-10-14,350.0,2026-10-14,350.0,Prawn Curry,Mangaluru,350.0,700.0
+1028,Mysuru,Chinese,Spring Rolls,160.0,,UPI,Delivered,4.0,2026-10-14,,2026-10-14,160.0,Spring Rolls,Mysuru,243.2,320.0
+1029,Hubballi,Desserts,Rasgulla,120.0,2.0,Card,Cancelled,,2026-10-15,240.0,2026-10-15,120.0,Rasgulla,Hubballi,240.0,240.0
+1030,Bengaluru,South Indian,Rava Idli,110.0,1.0,UPI,Delivered,4.4,2026-10-15,110.0,2026-10-15,110.0,Rava Idli,Bengaluru,110.0,220.0
